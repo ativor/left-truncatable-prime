@@ -10,6 +10,8 @@ For example: The input 10 should give the output 47; the input 100 should give t
 
 This is the fastest way of returning the given number. On a virtual machine with one core it returns the 2166th lfet-truncatable prime 999.962.683 in 0.037 seconds.
 
+The application is distributed under the Apache 2.0 license
+
 To compile on linux just run the below command:
 
 > gcc -o main main.c
