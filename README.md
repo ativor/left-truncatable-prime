@@ -9,3 +9,7 @@ Write a program in C for an embedded system that reads in a single integer, n (1
 For example: The input 10 should give the output 47; the input 100 should give the output 5167; the input 1000 should give the output 8391283.
 
 This is the fastest way of returning the given number. On a virtual machine with one core it returns the 2166th lfet-truncatable prime 999.962.683 in 0.037 seconds.
+
+To compile on linux just run the below command:
+
+# gcc -o main main.c
