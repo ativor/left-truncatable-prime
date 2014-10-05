@@ -12,4 +12,4 @@ This is the fastest way of returning the given number. On a virtual machine with
 
 To compile on linux just run the below command:
 
-# gcc -o main main.c
+> gcc -o main main.c
